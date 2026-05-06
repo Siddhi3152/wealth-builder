@@ -36,28 +36,6 @@ An intelligent, full-stack personal finance and wealth management platform built
 - Google Generative AI (Gemini) for AI insights
 - APScheduler for background tasks & notifications
 
-## 📁 Project Structure
-
-```
-wealth-builder/
-│
-├── backend/                  # Python Flask Server
-│   ├── app.py                # App initialization
-│   ├── routes.py             # API Endpoints
-│   ├── models.py             # Database Models
-│   ├── requirements.txt      # Python dependencies
-│   └── ...
-│
-├── frontend/                 # React Native Mobile App
-│   ├── app/                  # Screens and Navigation
-│   ├── components/           # Reusable UI components
-│   ├── services/             # API connection logic
-│   ├── package.json          # Node dependencies
-│   └── ...
-│
-└── project_documentation...  # In-depth architectural reports & research papers
-```
-
 ## 🚀 Getting Started
 
 ### Prerequisites
